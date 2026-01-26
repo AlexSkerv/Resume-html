@@ -1,0 +1,70 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alexander Skervin - Resume</title>
+</head>
+<body>
+
+<header>
+  <h1>Alexander Skervin</h1>
+  <p>
+    Email: <a href="mailto:al521030@ucf.edu">al521030@ucf.edu</a><br>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/alexanderskervin" target="_blank">
+      linkedin.com/in/alexanderskervin
+    </a>
+  </p>
+</header>
+
+<main>
+
+  <section>
+    <h2>Professional Objective</h2>
+    <p>
+      Information Technology student wanting to develop technical,
+      problem-solving, and cybersecurity skills through hands-on experience
+      and professional development.
+    </p>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <article>
+      <h3>University of Central Florida</h3>
+      <p>
+        Bachelor of Science in Information Technology<br>
+        Minor in Business Administration<br>
+        Expected Graduation: May 2027<br>
+        GPA: 3.25
+      </p>
+    </article>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="project1.html">Project 1: HiPoint Mobile App</a></li>
+      <li><a href="project2.html">Project 2: NBA Statistics Project</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>Basic Networking Concepts</li>
+      <li>Cybersecurity Fundamentals</li>
+      <li>Problem Solving</li>
+      <li>System Administration Basics</li>
+    </ul>
+  </section>
+
+</main>
+
+<footer>
+  <p>2026 Alexander Skervin</p>
+</footer>
+
+</body>
+</html>
